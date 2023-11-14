@@ -7,7 +7,7 @@ import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import org.slf4j.Logger;
-import ru.vadim.minecrafteconomy.item.ItemsRegistry;
+import ru.vadim.minecrafteconomy.item.items.ItemsRegistry;
 
 @Mod(MinecraftEconomy.MOD_ID)
 public class MinecraftEconomy
